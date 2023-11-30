@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "Username": "eeeeee",
+      "Email": "ttttt",
+      "Password": "gggggg",
+      "IsAdmin": false,
+      "id": 1
+    },
+    {
+      "Username": "",
+      "Email": "",
+      "Password": "",
+      "IsAdmin": false,
+      "id": 2
+    }
+  ],
+  "books": []
+}

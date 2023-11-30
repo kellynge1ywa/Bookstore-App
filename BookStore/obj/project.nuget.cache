@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IH03QmfAR/t0IXbgNfWffidSwAuMGn8nC6BdqGkW4Vn7VtywrjIBr5U/j3olRCmgC0G9VwfaLBGAIjdD7de6bg==",
+  "success": true,
+  "projectFilePath": "D:\\Teach2Give\\Projects\\Bookstore\\BookStore\\BookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KELLY\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+D:\Teach2Give\Projects\Bookstore\BooksModel\bin\Debug\net8.0\BooksModel.deps.json
+D:\Teach2Give\Projects\Bookstore\BooksModel\bin\Debug\net8.0\BooksModel.dll
+D:\Teach2Give\Projects\Bookstore\BooksModel\bin\Debug\net8.0\BooksModel.pdb
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\BooksModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\BooksModel.AssemblyInfoInputs.cache
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\BooksModel.AssemblyInfo.cs
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\BooksModel.csproj.CoreCompileInputs.cache
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\BooksModel.dll
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\refint\BooksModel.dll
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\BooksModel.pdb
+D:\Teach2Give\Projects\Bookstore\BooksModel\obj\Debug\net8.0\ref\BooksModel.dll
